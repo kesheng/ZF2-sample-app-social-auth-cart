@@ -105,6 +105,7 @@ return array(
         ),
         'aliases' => array(
             'translator' => 'MvcTranslator',
+            'zfcuser_doctrine_em' => 'Doctrine\ORM\EntityManager',
         ),
     ),
     'translator' => array(
